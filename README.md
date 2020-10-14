@@ -12,7 +12,7 @@ This paper formalizes the binarization operations over neural networks from a le
 
 ## Searching for Low-Bit Weights in Quantized Neural Networks (NeurIPS2020)
 
-by Zhaohui Yang, Yunhe Wang, Kai Han, Chunjing Xu, Chao Xu, Dacheng Tao, Chang Xu. [[paper](https://arxiv.org/abs/2009.08695)] [[code](https://www.github.com/huawei-noah/slb)]
+by Zhaohui Yang, Yunhe Wang, Kai Han, Chunjing Xu, Chao Xu, Dacheng Tao, Chang Xu. [[paper](https://arxiv.org/abs/2009.08695)] [[code](https://github.com/huawei-noah/Binary-Neural-Networks/tree/main/SLB)]
 
 #### Abstract
 
