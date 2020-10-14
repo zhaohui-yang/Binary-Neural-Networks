@@ -2,9 +2,9 @@
 
 This repository contains the codes of the following papers:
 
-## Learning Binary Neurons with Noisy Supervision (ICML2020)
+## Training Binary Neural Networks through Learning with Noisy Supervision (ICML2020)
 
-by Kai Han, Yunhe Wang, Yixing Xu, Chunjing Xu, Enhua Wu, Chang Xu. [[paper](https://arxiv.org/abs/2010.04871)] [[code](github.com/huawei-noah/noisybinary)]
+by Kai Han, Yunhe Wang, Yixing Xu, Chunjing Xu, Enhua Wu, Chang Xu. [[paper](https://arxiv.org/abs/2010.04871)] [[code](https://www.github.com/huawei-noah/noisybinary)]
 
 #### Abstract
 
@@ -12,7 +12,7 @@ This paper formalizes the binarization operations over neural networks from a le
 
 ## Searching for Low-Bit Weights in Quantized Neural Networks (NeurIPS2020)
 
-by Zhaohui Yang, Yunhe Wang, Kai Han, Chunjing Xu, Chao Xu, Dacheng Tao, Chang Xu. [[paper](https://arxiv.org/abs/2009.08695)] [[code](github.com/huawei-noah/slb)]
+by Zhaohui Yang, Yunhe Wang, Kai Han, Chunjing Xu, Chao Xu, Dacheng Tao, Chang Xu. [[paper](https://arxiv.org/abs/2009.08695)] [[code](https://www.github.com/huawei-noah/slb)]
 
 #### Abstract
 
