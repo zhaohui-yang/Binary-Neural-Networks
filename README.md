@@ -4,7 +4,7 @@ This repository contains the codes of the following papers:
 
 ## Training Binary Neural Networks through Learning with Noisy Supervision (ICML2020)
 
-by Kai Han, Yunhe Wang, Yixing Xu, Chunjing Xu, Enhua Wu, Chang Xu. [[paper](https://arxiv.org/abs/2010.04871)] [[code](https://www.github.com/huawei-noah/LNS)]
+by Kai Han, Yunhe Wang, Yixing Xu, Chunjing Xu, Enhua Wu, Chang Xu. [[paper](https://arxiv.org/abs/2010.04871)] [[code](https://github.com/huawei-noah/Binary-Neural-Networks/tree/main/LNS)]
 
 #### Abstract
 
